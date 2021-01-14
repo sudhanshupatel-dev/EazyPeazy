@@ -6,4 +6,4 @@ This is a hacking tool, using this you can hack any Windows machine without bein
 
 ## Installation
 - Open the terminal in your Kali machine and write
-  `git clone https://github.com/sudhanshupatel-dev/EazyPeazy'
+  `git clone https://github.com/sudhanshupatel-dev/EazyPeazy`
