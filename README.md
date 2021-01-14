@@ -5,5 +5,5 @@ This is a hacking tool, using this you can hack any Windows machine without bein
 * You will need a windows and a kali machine in order to hack the target machine.
 
 ## Installation
-- Open the terminal in your Kali machine and write
+- Open the terminal in your Kali machine and write \n
   `git clone https://github.com/sudhanshupatel-dev/EazyPeazy`
