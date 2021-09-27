@@ -20,4 +20,3 @@ This is a reverse shell tcp payload so if our backdoor file is executed in the t
 - Then enter your kali machine ip address.
 - Now wait till the the target machine executes our file.
 
-### Video Demonstration - https://youtu.be/AQ_qzJTDCNE
